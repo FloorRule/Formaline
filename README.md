@@ -1,6 +1,6 @@
 # Formaline
 
-Formaline is an interactive educational tool designed to assist students and researchers in practicing formal mathematical proofs through a structured mobile interface. It translates user-written proofs into Lean code, verifies their correctness, and returns the results with clear, informative feedback.
+Formaline is an interactive educational tool designed to assist students in practicing formal mathematical proofs through a structured mobile interface. It translates user-written proofs into Lean code, verifies their correctness, and returns the results with clear, informative feedback.
 
 ## Features
 
