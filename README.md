@@ -55,7 +55,7 @@ By default, the server will be available at `http://localhost:8000`.
 
 ## Screenshots
 
-*(Screenshots of the application can be added here to demonstrate functionality.)*
+<img src="https://github.com/user-attachments/assets/58c27bb2-cb8f-4ec5-9c5b-9ce009770dbe" width="350">
 
 ## Contributing
 
